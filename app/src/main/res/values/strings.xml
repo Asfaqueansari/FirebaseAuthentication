@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseAuth</string>
+    <string name="asfaque_gmail_com">asfaque@gmail.com</string>
+    <string name="password">password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log In</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account Register Here</string>
+    <string name="email">email</string>
+    <string name="new_user_registration">New User Registration</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login_here">Already have an account Login Here</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="asfaque_warsi">Asfaque Warsi</string>
+    <string name="change_password">Change Password</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="firebase">Firebase</string>
+    <string name="account_login">Account Login</string>
+</resources>
